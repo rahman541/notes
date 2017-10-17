@@ -1,1 +1,1 @@
-# Note taking apps build using Onsen UI framework
+# Note taking apps build using Ionic framework with Angular
